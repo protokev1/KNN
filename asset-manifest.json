@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/knn/static/css/main.29229f10.chunk.css",
+    "main.js": "/knn/static/js/main.ed63c764.chunk.js",
+    "main.js.map": "/knn/static/js/main.ed63c764.chunk.js.map",
+    "runtime-main.js": "/knn/static/js/runtime-main.e1cf884a.js",
+    "runtime-main.js.map": "/knn/static/js/runtime-main.e1cf884a.js.map",
+    "static/css/2.01794eb1.chunk.css": "/knn/static/css/2.01794eb1.chunk.css",
+    "static/js/2.564c57bc.chunk.js": "/knn/static/js/2.564c57bc.chunk.js",
+    "static/js/2.564c57bc.chunk.js.map": "/knn/static/js/2.564c57bc.chunk.js.map",
+    "static/js/3.f6327778.chunk.js": "/knn/static/js/3.f6327778.chunk.js",
+    "static/js/3.f6327778.chunk.js.map": "/knn/static/js/3.f6327778.chunk.js.map",
+    "index.html": "/knn/index.html",
+    "static/css/2.01794eb1.chunk.css.map": "/knn/static/css/2.01794eb1.chunk.css.map",
+    "static/css/main.29229f10.chunk.css.map": "/knn/static/css/main.29229f10.chunk.css.map",
+    "static/js/2.564c57bc.chunk.js.LICENSE.txt": "/knn/static/js/2.564c57bc.chunk.js.LICENSE.txt",
+    "static/media/cetyslogo.e1730752.png": "/knn/static/media/cetyslogo.e1730752.png",
+    "static/media/req1.4de9e402.PNG": "/knn/static/media/req1.4de9e402.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1cf884a.js",
+    "static/css/2.01794eb1.chunk.css",
+    "static/js/2.564c57bc.chunk.js",
+    "static/css/main.29229f10.chunk.css",
+    "static/js/main.ed63c764.chunk.js"
+  ]
+}
